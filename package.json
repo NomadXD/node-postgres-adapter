@@ -1,0 +1,12 @@
+{
+  "name": "node-postgres-adapter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NomadXD/node-postgres-adapter.git",
+  "author": "Lahiru <lahirudesilva.17@cse.mrt.ac.lk>",
+  "license": "MIT",
+  "devDependencies": {
+    "tslint": "^6.0.0",
+    "typescript": "^3.8.3"
+  }
+}
